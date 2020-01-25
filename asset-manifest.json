@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/monicalaura/quotes4u.git/static/css/main.81bc7fae.chunk.css",
-    "main.js": "/monicalaura/quotes4u.git/static/js/main.1108c6b9.chunk.js",
-    "main.js.map": "/monicalaura/quotes4u.git/static/js/main.1108c6b9.chunk.js.map",
-    "runtime-main.js": "/monicalaura/quotes4u.git/static/js/runtime-main.3716e1de.js",
-    "runtime-main.js.map": "/monicalaura/quotes4u.git/static/js/runtime-main.3716e1de.js.map",
-    "static/js/2.302e78e0.chunk.js": "/monicalaura/quotes4u.git/static/js/2.302e78e0.chunk.js",
-    "static/js/2.302e78e0.chunk.js.map": "/monicalaura/quotes4u.git/static/js/2.302e78e0.chunk.js.map",
-    "index.html": "/monicalaura/quotes4u.git/index.html",
-    "precache-manifest.8bdb34978754aa66d41f9e6d86aa73db.js": "/monicalaura/quotes4u.git/precache-manifest.8bdb34978754aa66d41f9e6d86aa73db.js",
-    "service-worker.js": "/monicalaura/quotes4u.git/service-worker.js",
-    "static/css/main.81bc7fae.chunk.css.map": "/monicalaura/quotes4u.git/static/css/main.81bc7fae.chunk.css.map",
-    "static/js/2.302e78e0.chunk.js.LICENSE": "/monicalaura/quotes4u.git/static/js/2.302e78e0.chunk.js.LICENSE",
-    "static/media/logo.svg": "/monicalaura/quotes4u.git/static/media/logo.5d5d9eef.svg",
-    "static/media/App.css": "/monicalaura/quotes4u.git/static/media/philoBg.1867c42e.png"
+    "main.css": "/quotes4u/static/css/main.525d9225.chunk.css",
+    "main.js": "/quotes4u/static/js/main.c4b8e5d4.chunk.js",
+    "main.js.map": "/quotes4u/static/js/main.c4b8e5d4.chunk.js.map",
+    "runtime-main.js": "/quotes4u/static/js/runtime-main.c10d84b9.js",
+    "runtime-main.js.map": "/quotes4u/static/js/runtime-main.c10d84b9.js.map",
+    "static/js/2.302e78e0.chunk.js": "/quotes4u/static/js/2.302e78e0.chunk.js",
+    "static/js/2.302e78e0.chunk.js.map": "/quotes4u/static/js/2.302e78e0.chunk.js.map",
+    "index.html": "/quotes4u/index.html",
+    "precache-manifest.15753a15487c60171d4eae656fc5e388.js": "/quotes4u/precache-manifest.15753a15487c60171d4eae656fc5e388.js",
+    "service-worker.js": "/quotes4u/service-worker.js",
+    "static/css/main.525d9225.chunk.css.map": "/quotes4u/static/css/main.525d9225.chunk.css.map",
+    "static/js/2.302e78e0.chunk.js.LICENSE": "/quotes4u/static/js/2.302e78e0.chunk.js.LICENSE",
+    "static/media/logo.svg": "/quotes4u/static/media/logo.5d5d9eef.svg",
+    "static/media/App.css": "/quotes4u/static/media/philoBg.1867c42e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3716e1de.js",
+    "static/js/runtime-main.c10d84b9.js",
     "static/js/2.302e78e0.chunk.js",
-    "static/css/main.81bc7fae.chunk.css",
-    "static/js/main.1108c6b9.chunk.js"
+    "static/css/main.525d9225.chunk.css",
+    "static/js/main.c4b8e5d4.chunk.js"
   ]
 }
